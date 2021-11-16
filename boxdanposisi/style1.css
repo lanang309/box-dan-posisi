@@ -1,0 +1,41 @@
+
+.profile{
+    float : left;
+    width : 175px;
+    height : 565px;
+    border-style: solid;
+    background-color: rgb(247, 233, 45);
+    margin-right: 100px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.categori{
+    float : left;
+    width: 175px;
+    height: 565px;
+    border-style: solid;
+    background-color: rgb(247, 113, 23);
+    margin-right: 100px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.conten{
+    float: left;
+    width : 175px;
+    height : 565px;
+    border-style: solid;
+    background-color: rgb(64, 231, 106);
+    margin-right: 100px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.abc{
+    float: left;
+    width : 175px;
+    height : 565px;
+    border-style: solid;
+    background-color :rgb(74, 240, 218);
+    margin-right: 100px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
